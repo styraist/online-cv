@@ -203,8 +203,8 @@ projects:
     - title: Wordpress
       link: '#'
       tagline: ' <br />
-        - <a href="https://www.turaetiket.com/" target="_blank" rel="nofollow">https://www.turaetiket.com/</a>
-        - <a href="https://www.anthukuk.com/" target="_blank" rel="nofollow">https://www.anthukuk.com/</a>
+        - <a href="https://www.turaetiket.com/" target="_blank" rel="nofollow">https://www.turaetiket.com/</a> <br />
+        - <a href="https://www.anthukuk.com/" target="_blank" rel="nofollow">https://www.anthukuk.com/</a> <br />
         '
 
 skills:
