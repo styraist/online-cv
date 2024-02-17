@@ -12,6 +12,12 @@
       <a href="tel:{{ sidebar.phone }}">{{ sidebar.phone }}</a>
     </li>
     {% endif %}
+    
+    {% if sidebar.birthday %}
+    <li class="phone"><i class="fas fa-candles"></i>
+      <a href="tel:{{ sidebar.birthday }}">{{ sidebar.birthday }}</a>
+    </li>
+    {% endif %}
 
     {% if sidebar.citizenship %}
     <li class="phone"><i class="fas fa-passport"></i>
