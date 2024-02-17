@@ -19,7 +19,7 @@ sidebar:
   timezone: Turkey/İstanbul Timezone
   citizenship: Turkey
   website: https://monachus.io/ #do not add http://
-  linkedin: alandoe
+  linkedin: www.linkedin.com/in/ömer-eren
   github: Battlelamb
   twitter: '@omereren'
   stack-overflow: 5094428/battlelamb # Number/Username, e.g. 123456/alandoe
@@ -103,7 +103,7 @@ experiences:
         I have provided technical support to various firms such as P&G (Procter and Gamble), O-Pak, Metro Group, and others, across different platforms and domains, and have also developed applications. For further details, please refer to the projects section.
     - role: Senior Software Engineer
       time: 03/2016- 03/2017
-      company: Metro Group - Metro Yapı A.Ş.
+      company: Metro Group - Metro Elektri̇k Mühendi̇sli̇k Taah. San. ve Ti̇c. Ltd. Şti̇.
       details: |
         I have provided technical support to various firms such as P&G (Procter and Gamble), O-Pak, Metro Group, and others, across different platforms and domains, and have also developed applications. For further details, please refer to the projects section.
          - Digital Marketing
@@ -127,6 +127,27 @@ experiences:
           - Web site and launcher management
           - Creating banner ads for new promotions
           - Planning new campaigns and in-game items
+    - role: UI/UX Engineer
+      time: 09/2011 - 10/2012
+      company: Sirius Pırlanta A.Ş.
+      details: |
+        Web Development:
+          - <a href="https://www.siriuspirlanta.com/" target="_blank" rel="nofollow">https://www.siriuspirlanta.com/</a>
+          - Bug-tracking and code-cleaning methodologies implemented
+          - Development of a new and highly intuitive user interface (UI)
+          - Comprehensive SEO optimization strategies deployed
+    - role: UI/UX Engineer
+      time: 06/2010 - 08/2011
+      company: Grey İstanbul / Dibygrey
+      details: |
+        - IKEA Aile Kart
+        - Ülker GYO
+        - CHP Banner
+        - Localization and recomposing: NIKE
+        - CHP
+        - Amnesty
+        - THY Kargo
+        - Kuveyt Türk
 
 certifications:
   title: Certifications
@@ -160,7 +181,7 @@ projects:
         - Packaging Qualification: A packaging system designed for planning at the P&G Germany factory.<br />
         - QAlert: An information system tailored for the production lines at the P&G Gebze factory.<br />
         - Action Plan: A comprehensive information and monitoring system deployed across the entirety of the P&G Gebze factory.<br />
-        Maintenance of various applications.
+        - Maintenance of various applications.
         '
 
     - title: O-PAK Sealing Products Distributorship Order system
@@ -171,13 +192,20 @@ projects:
       link: '#'
       tagline: 'Tetro Boss XCRM Localization, integrated a new localization feature into the ASP.NET MVC application.'
 
-    - title: Atom
+    - title: Localization/QA
       link: '#'
-      tagline: 'A comprehensive website template solution for startups/developers to market their mobile apps.'
+      tagline: 'NEXON – Lost Saga Game'
 
-    - title: Delta
+    - title: Localization/QA
       link: '#'
-      tagline: 'A responsive Bootstrap one page theme designed to help app developers promote their mobile apps'
+      tagline: 'NEXON – United Eleven Game'
+
+    - title: Wordpress
+      link: '#'
+      tagline: ' <br />
+        - <a href="https://www.turaetiket.com/" target="_blank" rel="nofollow">https://www.turaetiket.com/</a>
+        - <a href="https://www.anthukuk.com/" target="_blank" rel="nofollow">https://www.anthukuk.com/</a>
+        '
 
 skills:
   title: Skills &amp; Proficiency
@@ -195,6 +223,9 @@ skills:
     - name: HTML5 & CSS
       level: 95%
 
+    - name: T-SQL
+      level: 80%
+
     - name: C#
       level: 85%
 
@@ -208,4 +239,4 @@ skills:
       level: 50%
 
 footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  <i class="fas fa-heart"></i> Thank you for taking the time to review my CV. I look forward to the opportunity to discuss how my skills and experiences can contribute to your team.
