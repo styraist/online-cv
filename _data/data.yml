@@ -101,6 +101,32 @@ experiences:
       company: Self-Employed
       details: |
         I have provided technical support to various firms such as P&G (Procter and Gamble), O-Pak, Metro Group, and others, across different platforms and domains, and have also developed applications. For further details, please refer to the projects section.
+    - role: Senior Software Engineer
+      time: 03/2016- 03/2017
+      company: Metro Group - Metro Yapı A.Ş.
+      details: |
+        I have provided technical support to various firms such as P&G (Procter and Gamble), O-Pak, Metro Group, and others, across different platforms and domains, and have also developed applications. For further details, please refer to the projects section.
+         - Digital Marketing
+         - Social network management
+         - Technical support
+         - Overseeing the integration of new payment system NeTahsilat
+         - Preparing the reports about online interactions
+         - VR development for the Showroom
+         - <a href="http://metroyapi.com.tr" target="_blank" rel="nofollow">Metro Yapı</a>
+         - <a href="https://www.metroelektrik.com.tr/" target="_blank" rel="nofollow">Metro Elektrik</a>
+    - role: Project Manager/International Management
+      time: 06/2013 - 03/2015
+      company: Thu Bi̇li̇şi̇m İnternet Ve Danışmanlık Ti̇caret Ltd. Şti.
+      details: |
+        Prime World - Ragnarök Online
+          - Overseeing whole local operations
+          - Localization and QA
+          - Social network management
+          - Technical support, All communication with the Nival HQ
+          - Preparing the reports about in-game and sales statuses
+          - Web site and launcher management
+          - Creating banner ads for new promotions
+          - Planning new campaigns and in-game items
 
 certifications:
   title: Certifications
@@ -130,18 +156,20 @@ projects:
     - title: P&G (Procter and Gamble)
       link: '#'
       tagline: '
-        - Packaging Qualification: A packaging system designed for planning at the P&G Germany factory.
-        - QAlert: An information system tailored for the production lines at the P&G Gebze factory.
-        - Action Plan: A comprehensive information and monitoring system deployed across the entirety of the P&G Gebze factory.
-        Maintenance of various applications.'
-
-    - title: Tetraport Teknoloji̇ A.Ş.
-      link: '#'
-      tagline: 'Tetro Boss XCRM Localization, integrated a new localization feature into the ASP.NET MVC application.'
+        <br />
+        - Packaging Qualification: A packaging system designed for planning at the P&G Germany factory.<br />
+        - QAlert: An information system tailored for the production lines at the P&G Gebze factory.<br />
+        - Action Plan: A comprehensive information and monitoring system deployed across the entirety of the P&G Gebze factory.<br />
+        Maintenance of various applications.
+        '
 
     - title: O-PAK Sealing Products Distributorship Order system
       link: 'http://shop.o-pak.com.tr:3434/'
       tagline: 'The application allows for the addition of new customers, each of whom may have a pre-defined discount. The products displayed on the page are configured and selected by the company. The application is built on a .NET Angular MVC framework on a MSSQL database.'
+
+    - title: Tetraport Teknoloji̇ A.Ş.
+      link: '#'
+      tagline: 'Tetro Boss XCRM Localization, integrated a new localization feature into the ASP.NET MVC application.'
 
     - title: Atom
       link: '#'
