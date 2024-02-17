@@ -98,43 +98,22 @@ experiences:
 certifications:
   title: Certifications
   list:
-    - name: CV Builder
-      start: 2020
-      end: 2021
-      organization: Microsoft
-      credentialid: 111-222
-      credentialurl: www.google.com
-      credentialname: Google
-      details: |
-        Details about cert. Lorem ipsum dolor sit amet, consectetur
-        adipiscing elit.
-        Nullam eget orci purus. Nullam ultrices neque nibh.
-        Aenean fermentum, felis vulputate suscipit accumsan,
-        sem enim bibendum augue, sed convallis arcu lacus at dui.
-        Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-        Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-        Praesent venenatis erat non augue suscipit consectetur.
-
-        Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-        fringilla vel. Ut euismod, sem sed vulputate venenatis,
-        justo diam viverra velit, sed rhoncus leo leo eu justo.
-        Suspendisse placerat risus ante, sed porta nisi blandit at.
-    - name: Git learning
-      start: 2019
+    - name: Udemy
+      start:
       end:
+      organization: Udemy
+      credentialurl: https://www.udemy.com/user/omer-eren/
+      credentialname: Udemy
+      details: |
+        Driven by a passion for learning, I spend my free time exploring different technologies and acquiring new skills. This includes delving into areas such as Arduino, Raspberry Pi, Python, JavaScript, C#, C++, Java, and more. This commitment to continuous learning allows me to stay updated with the latest advancements in technology, enhancing my proficiency and adaptability as a professional in the field.
+    - name: Bilge Adam
+      start: 06/2015
+      end: 12/2015
       organization: Microsoft
-      credentialid: 111-222
-      credentialurl: www.github.com
+      credentialurl: https://akademi.bilgeadam.com/courses/yazilim-dot-net-egitimi/
       credentialname: Github
       details: |
-        Older certification. Lorem ipsum dolor sit amet, consectetur
-        adipiscing elit.
-        Nullam eget orci purus. Nullam ultrices neque nibh.
-        Aenean fermentum, felis vulputate suscipit accumsan,
-        sem enim bibendum augue, sed convallis arcu lacus at dui.
-        Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-        Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-        Praesent venenatis erat non augue suscipit consectetur.
+        This training covers the details of the C# programming language, which is one of the most popular programming languages in the world, as well as the world's most popular client-based web development frameworks and server-based web technologies developed by Microsoft, such as Asp.Net and Asp.Net Core MVC.Additionally, it addresses programming on two of the world's most popular database systems, MSSQL Server and PostgreSql, as well as developing and using web services.
 
 projects:
   title: Projects
