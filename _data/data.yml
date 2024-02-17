@@ -52,37 +52,19 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Experienced Full Stack Developer with a strong interest in exploring new technologies and creating innovative applications. Skilled in both front-end and back-end development, I excel in fast-paced environments where I can apply my creativity and technical knowledge to deliver high-quality solutions. Committed to pushing technological boundaries and achieving impactful outcomes, I have a keen eye for detail and a passion for driving results.
 education:
   title: Education
   info:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: Forest Engineer
+      university: İstanbul University
+      time: İstanbul
+    - degree: Middle School
+      university: Sankt Georg College
+      time: İstanbul
+    - degree: High School
+      university: Kartal Anadolu College
+      time: İstanbul
 
 experiences:
   title: Experiences
@@ -93,7 +75,7 @@ experiences:
       details: |
         I served as a Team Leader, overseeing a team of three individuals with varying levels of expertise. I played a critical role in a KOSGEB-supported Complex Event Processing (CEP) project written in Java. This project enables companies to define real-time rules and decisions by applying complex and intricate rules during real-time data streams. Additionally, I actively contributed to the development of a real-time data processing and visualization web application. This project aimed to deliver effective data analytics solutions to clients.
           - Event-centric Massive Scale Real-time Streaming Data Processing
-          - Monachus Information Bilişim A.Ş. is associated with Altosis Information Bilişim A.Ş.
+          - Monachus Bilişim A.Ş. is associated with Altosis Bilişim A.Ş.
     - role: Senior Software Engineer
       time: 01/2021 - Present
       company: Altosis Bilişim A.Ş.
@@ -107,6 +89,11 @@ experiences:
       details: |
         Actively developed the UI, made improvements to the front end, and added new features to the C# backend.
           - <a href="https://www.lovapirlanta.com/" target="_blank" rel="nofollow">Lova Pırlanta</a>
+    - role: Freelancer
+      time: 04/2017 - 03/2019
+      company: Self-Employed
+      details: |
+        I have offered technical support to various firms on different platforms and domains, and developed applications. Further details can be found in the projects section.
 
 certifications:
   title: Certifications
@@ -152,13 +139,11 @@ certifications:
 projects:
   title: Projects
   intro: >
-    You can list your side projects in this
-    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    Side projects
   assignments:
-    - title: Velocity
-      link: '#hook'
-      tagline: 'A responsive website template designed to help startups promote, market and sell their products.'
+    - title: Tetraport Teknoloji̇ A.Ş.
+      link: '#'
+      tagline: 'Tetro Boss XCRM Localization, integrated a new localization feature into the ASP.NET MVC application.'
 
     - title: DevStudio
       link: '#'
