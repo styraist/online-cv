@@ -89,6 +89,13 @@ experiences:
       details: |
         Actively developed the UI, made improvements to the front end, and added new features to the C# backend.
           - <a href="https://www.lovapirlanta.com/" target="_blank" rel="nofollow">Lova Pırlanta</a>
+    - role: Part-time Programming Teacher
+      time: 2018 - Present
+      company: Maker Codes
+      details: |
+        Maker Codes offers a range of technical courses instructed by skilled professionals. As a part-time programming teacher, I lead sessions covering HTML, CSS, JavaScript, C#, Python, Java, Arduino, Unity, and APP Inventor. Our Bootcamp-Training program for adults features an extensive curriculum including HTML, CSS, JavaScript, Node.js, MongoDB, and React-Redux.
+          - <a href="https://makercodes.com/egitmenlerimiz/" target="_blank" rel="nofollow">Maker Codes</a>
+          - <a href="https://makercodes.com/makercodes-bootcamp-yazilim-kampimiz-tamamlandi/" target="_blank" rel="nofollow">Makercodes – Bootcamp</a>
     - role: Freelancer
       time: 04/2017 - 03/2019
       company: Self-Employed
@@ -111,7 +118,7 @@ certifications:
       end: 12/2015
       organization: Microsoft
       credentialurl: https://akademi.bilgeadam.com/courses/yazilim-dot-net-egitimi/
-      credentialname: Github
+      credentialname: Bilge Adam
       details: |
         This training covers the details of the C# programming language, which is one of the most popular programming languages in the world, as well as the world's most popular client-based web development frameworks and server-based web technologies developed by Microsoft, such as Asp.Net and Asp.Net Core MVC.Additionally, it addresses programming on two of the world's most popular database systems, MSSQL Server and PostgreSql, as well as developing and using web services.
 
@@ -124,9 +131,9 @@ projects:
       link: '#'
       tagline: 'Tetro Boss XCRM Localization, integrated a new localization feature into the ASP.NET MVC application.'
 
-    - title: DevStudio
-      link: '#'
-      tagline: 'A responsive website template designed to help web developers/designers market their services.'
+    - title: O-PAK Sealing Products Distributorship Order system
+      link: 'http://shop.o-pak.com.tr:3434/'
+      tagline: 'The application allows for the addition of new customers, each of whom may have a pre-defined discount. The products displayed on the page are configured and selected by the company. The application is built on a .NET Angular MVC framework on a MSSQL database.'
 
     - title: Tempo
       link: '#'
@@ -145,13 +152,13 @@ skills:
 
   toolset:
     - name: Python & Django
-      level: 98%
+      level: 90%
 
     - name: Javascript & jQuery
-      level: 98%
+      level: 100%
 
     - name: React - NextJS
-      level: 98%
+      level: 100%
 
     - name: HTML5 & CSS
       level: 95%
@@ -159,8 +166,14 @@ skills:
     - name: C#
       level: 85%
 
-    - name: Photoshop
-      level: 80%
+    - name: Unity
+      level: 75%
+
+    - name: Adobe Photoshop
+      level: 85%
+
+    - name: Adobe Illustrator
+      level: 50%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
