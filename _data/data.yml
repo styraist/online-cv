@@ -88,17 +88,17 @@ experiences:
   title: Experiences
   info:
     - role: Lead Developer
-      time: 2019 - Present
+      time: 01/2021 - Present
       company: Monachus Bilişim A.Ş.
       details: |
         I served as a Team Leader, overseeing a team of three individuals with varying levels of expertise. I played a critical role in a KOSGEB-supported Complex Event Processing (CEP) project written in Java. This project enables companies to define real-time rules and decisions by applying complex and intricate rules during real-time data streams. Additionally, I actively contributed to the development of a real-time data processing and visualization web application. This project aimed to deliver effective data analytics solutions to clients.
           - Event-centric Massive Scale Real-time Streaming Data Processing
           - Monachus Information Bilişim A.Ş. is associated with Altosis Information Bilişim A.Ş.
     - role: Senior Software Engineer
-      time: 2019 - Present
+      time: 01/2021 - Present
       company: Altosis Bilişim A.Ş.
       details: |
-        I have developed the following web application: <a href="https://ranan.mobily.com.sa/en" target="_blank" rel="nofollow">https://ranan.mobily.com.sa/en</a>Additionally, I have contributed to the development of the mobile counterpart of the same application: <a href="https://play.google.com/store/apps/details?id=com.mobily.rananapp&hl=en&gl=US" target="_blank" rel="nofollow">https://play.google.com/store/apps/details?id=com.mobily.rananapp&hl=en&gl=US</a>
+        I have developed the following web application: <a href="https://ranan.mobily.com.sa/en" target="_blank" rel="nofollow">https://ranan.mobily.com.sa</a>. Additionally, I have contributed to the development of the mobile app of the same application <a href="https://play.google.com/store/apps/details?id=com.mobily.rananapp&hl=en&gl=US" target="_blank" rel="nofollow">Mobily Ranan</a>
           - Bullet point
           - Bullet point
     - role: UI Developer
