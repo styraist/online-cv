@@ -10,7 +10,7 @@ url: 'https://battlelamb.github.io/online-cv/'
 
 description: Driven and dynamic professional with a passion for innovation and a relentless pursuit of excellence. Equipped with a diverse skill set and a proven track record of delivering results, I thrive in fast-paced environments where creativity meets strategy. With a keen eye for detail and a commitment to continuous learning, I am poised to tackle challenges head-on and make meaningful contributions to any team.
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
-theme_skin: orange # blue turquoise green berry orange ceramic
+theme_skin: ceramic # blue turquoise green berry orange ceramic
 chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
 
 # Tracker
