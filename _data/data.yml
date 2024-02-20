@@ -48,7 +48,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-  Hello. I'm Salih, a Python and JavaScript developer who has stepped into the world of backend development. I would like to say that I am someone who is always hungry to learn and focused on continuous improvement as I progress rapidly in the magical world of software. Innovation, problem solving and teamwork are not only career goals for me, but also my passion. Taking part in new projects, pushing technological boundaries and learning every day has become a lifestyle for me. If you share the same excitement, I can't wait to work together 🚀
+    Hello. I'm Salih, a Python and JavaScript developer who has stepped into the world of backend development. I would like to say that I am someone who is always hungry to learn and focused on continuous improvement as I progress rapidly in the magical world of software. Innovation, problem solving and teamwork are not only career goals for me, but also my passion. Taking part in new projects, pushing technological boundaries and learning every day has become a lifestyle for me. If you share the same excitement, I can't wait to work together 🚀
 education:
   title: Education
   info:
@@ -58,7 +58,6 @@ education:
     - degree: Philosophy
       university: Anadolu University
       time: Eskişehir
-
 
 experiences:
   title: Experiences
@@ -135,7 +134,7 @@ skills:
     - name: Python & Flask & Django
       level: 90%
 
-    - name: Javascript 
+    - name: Javascript
       level: 50%
 
     - name: React
@@ -146,7 +145,6 @@ skills:
 
     - name: SQL
       level: 50%
-
 
 footer: >
   <i class="fas fa-heart"></i> Thank you for taking the time to review my CV. I look forward to the opportunity to discuss how my skills and experiences can contribute to your team.
