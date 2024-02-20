@@ -67,8 +67,8 @@ experiences:
       time: 03/2023 - Present
       company: Monachus Bilişim A.Ş.
       details: |
-        •	I was involved in the implementation of a Complex Event Processing (CEP) project and organized the installation of a pipeline.
-        •	I was involved in developing a data analysis and visualization application using Flask and Dash frameworks. Contributed to enhancing data interpretation and decision-making processes within the company.
+        -	I was involved in the implementation of a Complex Event Processing (CEP) project and organized the installation of a pipeline.
+        -	I was involved in developing a data analysis and visualization application using Flask and Dash frameworks. Contributed to enhancing data interpretation and decision-making processes within the company.
 
           - Event-centric Massive Scale Real-time Streaming Data Processing
           - Monachus Bilişim A.Ş. is associated with Altosis Bilişim A.Ş.
@@ -76,7 +76,7 @@ experiences:
       time: 01/2013 - 02/2014
       company: AssisTT
       details: |
-        •	I have been involved in back office operations by managing customer support requests.
+        -	I have been involved in back office operations by managing customer support requests.
 
 certifications:
   title: Certifications
