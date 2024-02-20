@@ -21,8 +21,6 @@ sidebar:
   website: monachus.io #do not add http://
   linkedin: salih-ülker-b95b65262
   github: styraist
-  pdf: https://1drv.ms/b/s!Ar1UwPVLXaYywrId-Rcu_WZd3pRARA?e=1g99oz
-  pdf2: https://battlelamb.github.io/online-cv/styraist-github-io-online-cv.pdf
 
   languages:
     title: Languages
@@ -94,38 +92,20 @@ projects:
   intro: >
     Side projects
   assignments:
-    - title: P&G (Procter and Gamble)
+    - title: Blog Platform
       link: "#"
       tagline: "
         <br />
-        - Packaging Qualification: A packaging system designed for planning at the P&G Germany factory.<br />
-        - QAlert: An information system tailored for the production lines at the P&G Gebze factory.<br />
-        - Action Plan: A comprehensive information and monitoring system deployed across the entirety of the P&G Gebze factory.<br />
-        - Maintenance of various applications.
+        - Using Python Django, I created a blogging platform where users can register and write posts and reviews on these posts.<br />
         "
 
-    - title: O-PAK Sealing Products Distributorship Order system
-      link: "http://shop.o-pak.com.tr:3434/"
-      tagline: "The application allows for the addition of new customers, each of whom may have a pre-defined discount. The products displayed on the page are configured and selected by the company. The application is built on a .NET Angular MVC framework on a MSSQL database."
-
-    - title: Tetraport Teknoloji̇ A.Ş.
+    - title: Movie Review App
       link: "#"
-      tagline: "Tetro Boss XCRM Localization, integrated a new localization feature into the ASP.NET MVC application."
+      tagline: "Using Python Flask, I created a movie review application where users can add movies, write reviews and rate movies."
 
-    - title: Localization/QA
+    - title: Book Stock Management API (Django Rest Framework)
       link: "#"
-      tagline: "NEXON – Lost Saga Game"
-
-    - title: Localization/QA
-      link: "#"
-      tagline: "NEXON – United Eleven Game"
-
-    - title: Wordpress
-      link: "#"
-      tagline: ' <br />
-        - <a href="https://www.turaetiket.com/" target="_blank" rel="nofollow">https://www.turaetiket.com/</a> <br />
-        - <a href="https://www.anthukuk.com/" target="_blank" rel="nofollow">https://www.anthukuk.com/</a> <br />
-        '
+      tagline: "I developed an API project using the Django Rest Framework to efficiently manage book stocks. This project aims to facilitate bookstore operations such as stock tracking, updating and adding new books."
 
 skills:
   title: Skills &amp; Proficiency
