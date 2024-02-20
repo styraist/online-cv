@@ -101,11 +101,17 @@ projects:
 
     - title: Movie Review App
       link: "#"
-      tagline: "Using Python Flask, I created a movie review application where users can add movies, write reviews and rate movies."
+      tagline: "
+        <br />
+        - Using Python Flask, I created a movie review application where users can add movies, write reviews and rate movies.<br />
+        "
 
     - title: Book Stock Management API (Django Rest Framework)
       link: "#"
-      tagline: "I developed an API project using the Django Rest Framework to efficiently manage book stocks. This project aims to facilitate bookstore operations such as stock tracking, updating and adding new books."
+      tagline: "
+        <br />
+        - I developed an API project using the Django Rest Framework to efficiently manage book stocks. This project aims to facilitate bookstore operations such as stock tracking, updating and adding new books.<br />
+        "
 
 skills:
   title: Skills &amp; Proficiency
