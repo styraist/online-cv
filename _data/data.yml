@@ -8,23 +8,21 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Ömer Eren
-  tagline: Full Stack Developer
+  name: Salih Ülker
+  tagline: Junior Software Developer
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: erenomer@gmail.com
-  phone: +90 530 766 60 32
-  birthday: 18/02/1982
-  timezone: Turkey/İstanbul Timezone
+  email: salihulker8@gmail.com
+  phone: +90 546 770 67 97
+  birthday: 22/011/1993
+  timezone: Turkey/İzmir Timezone
   citizenship: Turkey
   website: monachus.io #do not add http://
-  linkedin: ömer-eren
-  github: Battlelamb
-  twitter: '@omereren'
-  stack-overflow: 5094428/battlelamb # Number/Username, e.g. 123456/alandoe
+  linkedin: salih-ülker-b95b65262
+  github: styraist
   pdf: https://1drv.ms/b/s!Ar1UwPVLXaYywrId-Rcu_WZd3pRARA?e=1g99oz
-  pdf2: https://battlelamb.github.io/online-cv/battlelamb-github-io-online-cv.pdf
+  pdf2: https://battlelamb.github.io/online-cv/styraist-github-io-online-cv.pdf
 
   languages:
     title: Languages
@@ -35,16 +33,13 @@ sidebar:
       - idiom: English
         level: Professional
 
-      - idiom: German
-        level: Intermediate
-
   interests:
     title: Interests
     info:
-      - item: Climbing
+      - item: Cycling
         link:
 
-      - item: Skiing
+      - item: Hiking
         link:
 
       - item: Cooking
@@ -52,103 +47,36 @@ sidebar:
 
 career-profile:
   title: Career Profile
-  summary: |
-    Experienced Full Stack Developer with a strong interest in exploring new technologies and creating innovative applications. Skilled in both front-end and back-end development, I excel in fast-paced environments where I can apply my creativity and technical knowledge to deliver high-quality solutions. Committed to pushing technological boundaries and achieving impactful outcomes, I have a keen eye for detail and a passion for driving results.
+  summary:
+  Hello. I'm Salih, a Python and JavaScript developer who has stepped into the world of backend development. I would like to say that I am someone who is always hungry to learn and focused on continuous improvement as I progress rapidly in the magical world of software. Innovation, problem solving and teamwork are not only career goals for me, but also my passion. Taking part in new projects, pushing technological boundaries and learning every day has become a lifestyle for me. If you share the same excitement, I can't wait to work together 🚀
 education:
   title: Education
   info:
-    - degree: Forest Engineer
-      university: İstanbul University
-      time: İstanbul
-    - degree: Middle School
-      university: Sankt Georg College
-      time: İstanbul
-    - degree: High School
-      university: Kartal Anadolu College
-      time: İstanbul
+    - degree: Theology
+      university: Dokuz Eylul University
+      time: İzmir
+    - degree: Philosophy
+      university: Anadolu University
+      time: Eskişehir
+
 
 experiences:
   title: Experiences
   info:
-    - role: Lead Developer
-      time: 01/2021 - Present
+    - role: Junior Software Developer
+      time: 03/2023 - Present
       company: Monachus Bilişim A.Ş.
       details: |
-        I served as a Team Leader, overseeing a team of three individuals with varying levels of expertise. I played a critical role in a KOSGEB-supported Complex Event Processing (CEP) project written in Java. This project enables companies to define real-time rules and decisions by applying complex and intricate rules during real-time data streams. Additionally, I actively contributed to the development of a real-time data processing and visualization web application. This project aimed to deliver effective data analytics solutions to clients.
+        •	I was involved in the implementation of a Complex Event Processing (CEP) project and organized the installation of a pipeline.
+        •	I was involved in developing a data analysis and visualization application using Flask and Dash frameworks. Contributed to enhancing data interpretation and decision-making processes within the company.
+
           - Event-centric Massive Scale Real-time Streaming Data Processing
           - Monachus Bilişim A.Ş. is associated with Altosis Bilişim A.Ş.
-    - role: Senior Software Engineer
-      time: 01/2021 - Present
-      company: Altosis Bilişim A.Ş.
+    - role: Back Office Assistant
+      time: 01/2013 - 02/2014
+      company: AssisTT
       details: |
-        I have developed the following web application: <a href="https://ranan.mobily.com.sa/en" target="_blank" rel="nofollow">https://ranan.mobily.com.sa</a>. Additionally, I have contributed to the development of the mobile app of the same application <a href="https://play.google.com/store/apps/details?id=com.mobily.rananapp&hl=en&gl=US" target="_blank" rel="nofollow">Mobily Ranan</a>
-          - <a href="https://ranan.mobily.com.sa/en" target="_blank" rel="nofollow">https://ranan.mobily.com.sa</a>
-          - <a href="https://play.google.com/store/apps/details?id=com.mobily.rananapp&hl=en&gl=US" target="_blank" rel="nofollow">Mobily Ranan</a>
-    - role: Senior Software Engineer
-      time: 09/2020 - 01/2021
-      company: Lova Pırlanta Sanayi̇ Ve Ti̇caret Li̇mi̇ted Şi̇rketi̇
-      details: |
-        Actively developed the UI, made improvements to the front end, and added new features to the C# backend.
-          - <a href="https://www.lovapirlanta.com/" target="_blank" rel="nofollow">Lova Pırlanta</a>
-    - role: Part-time Programming Teacher
-      time: 2018 - Present
-      company: Maker Codes
-      details: |
-        Maker Codes offers a range of technical courses instructed by skilled professionals. As a part-time programming teacher, I lead sessions covering HTML, CSS, JavaScript, C#, Python, Java, Arduino, Unity, and APP Inventor. Our Bootcamp-Training program for adults features an extensive curriculum including HTML, CSS, JavaScript, Node.js, MongoDB, and React-Redux.
-          - <a href="https://makercodes.com/egitmenlerimiz/" target="_blank" rel="nofollow">Maker Codes</a>
-          - <a href="https://makercodes.com/makercodes-bootcamp-yazilim-kampimiz-tamamlandi/" target="_blank" rel="nofollow">Makercodes – Bootcamp</a>
-    - role: Freelancer
-      time: 04/2017 - 03/2019
-      company: Self-Employed
-      details: |
-        I have provided technical support to various firms such as P&G (Procter and Gamble), O-Pak, Metro Group, and others, across different platforms and domains, and have also developed applications. For further details, please refer to the projects section.
-    - role: Senior Software Engineer
-      time: 03/2016- 03/2017
-      company: Metro Group - Metro Elektri̇k Mühendi̇sli̇k Taah. San. ve Ti̇c. Ltd. Şti̇.
-      details: |
-        I have provided technical support to various firms such as P&G (Procter and Gamble), O-Pak, Metro Group, and others, across different platforms and domains, and have also developed applications. For further details, please refer to the projects section.
-         - Digital Marketing
-         - Social network management
-         - Technical support
-         - Overseeing the integration of new payment system NeTahsilat
-         - Preparing the reports about online interactions
-         - VR development for the Showroom
-         - <a href="http://metroyapi.com.tr" target="_blank" rel="nofollow">Metro Yapı</a>
-         - <a href="https://www.metroelektrik.com.tr/" target="_blank" rel="nofollow">Metro Elektrik</a>
-    - role: Project Manager/International Management
-      time: 06/2013 - 03/2015
-      company: Thu Bi̇li̇şi̇m İnternet Ve Danışmanlık Ti̇caret Ltd. Şti.
-      details: |
-        Prime World - Ragnarök Online
-          - Overseeing whole local operations
-          - Localization and QA
-          - Social network management
-          - Technical support, All communication with the Nival HQ
-          - Preparing the reports about in-game and sales statuses
-          - Web site and launcher management
-          - Creating banner ads for new promotions
-          - Planning new campaigns and in-game items
-    - role: UI/UX Engineer
-      time: 09/2011 - 10/2012
-      company: Sirius Pırlanta A.Ş.
-      details: |
-        Web Development:
-          - <a href="https://www.siriuspirlanta.com/" target="_blank" rel="nofollow">https://www.siriuspirlanta.com/</a>
-          - Bug-tracking and code-cleaning methodologies implemented
-          - Development of a new and highly intuitive user interface (UI)
-          - Comprehensive SEO optimization strategies deployed
-    - role: UI/UX Engineer
-      time: 06/2010 - 08/2011
-      company: Grey İstanbul / Dibygrey
-      details: |
-        - IKEA Aile Kart
-        - Ülker GYO
-        - CHP Banner
-        - Localization and recomposing: NIKE
-        - CHP
-        - Amnesty
-        - THY Kargo
-        - Kuveyt Türk
+        •	I have been involved in back office operations by managing customer support requests.
 
 certifications:
   title: Certifications
@@ -157,18 +85,10 @@ certifications:
       start:
       end:
       organization: Udemy
-      credentialurl: https://www.udemy.com/user/omer-eren/
+      credentialurl: https://www.udemy.com/user/salih-ulker/
       credentialname: Udemy
       details: |
-        Driven by a passion for learning, I spend my free time exploring different technologies and acquiring new skills. This includes delving into areas such as Arduino, Raspberry Pi, Python, JavaScript, C#, C++, Java, and more. This commitment to continuous learning allows me to stay updated with the latest advancements in technology, enhancing my proficiency and adaptability as a professional in the field.
-    - name: Bilge Adam
-      start: 06/2015
-      end: 12/2015
-      organization: Microsoft
-      credentialurl: https://akademi.bilgeadam.com/courses/yazilim-dot-net-egitimi/
-      credentialname: Bilge Adam
-      details: |
-        This training covers the details of the C# programming language, which is one of the most popular programming languages in the world, as well as the world's most popular client-based web development frameworks and server-based web technologies developed by Microsoft, such as Asp.Net and Asp.Net Core MVC.Additionally, it addresses programming on two of the world's most popular database systems, MSSQL Server and PostgreSql, as well as developing and using web services.
+        Driven by a passion for learning, I spend my free time exploring different technologies and acquiring new skills. This includes delving into areas such as Python, JavaScript, SQL, Linux and more. This commitment to continuous learning allows me to stay updated with the latest advancements in technology, enhancing my proficiency and adaptability as a professional in the field.
 
 projects:
   title: Projects
@@ -176,33 +96,33 @@ projects:
     Side projects
   assignments:
     - title: P&G (Procter and Gamble)
-      link: '#'
-      tagline: '
+      link: "#"
+      tagline: "
         <br />
         - Packaging Qualification: A packaging system designed for planning at the P&G Germany factory.<br />
         - QAlert: An information system tailored for the production lines at the P&G Gebze factory.<br />
         - Action Plan: A comprehensive information and monitoring system deployed across the entirety of the P&G Gebze factory.<br />
         - Maintenance of various applications.
-        '
+        "
 
     - title: O-PAK Sealing Products Distributorship Order system
-      link: 'http://shop.o-pak.com.tr:3434/'
-      tagline: 'The application allows for the addition of new customers, each of whom may have a pre-defined discount. The products displayed on the page are configured and selected by the company. The application is built on a .NET Angular MVC framework on a MSSQL database.'
+      link: "http://shop.o-pak.com.tr:3434/"
+      tagline: "The application allows for the addition of new customers, each of whom may have a pre-defined discount. The products displayed on the page are configured and selected by the company. The application is built on a .NET Angular MVC framework on a MSSQL database."
 
     - title: Tetraport Teknoloji̇ A.Ş.
-      link: '#'
-      tagline: 'Tetro Boss XCRM Localization, integrated a new localization feature into the ASP.NET MVC application.'
+      link: "#"
+      tagline: "Tetro Boss XCRM Localization, integrated a new localization feature into the ASP.NET MVC application."
 
     - title: Localization/QA
-      link: '#'
-      tagline: 'NEXON – Lost Saga Game'
+      link: "#"
+      tagline: "NEXON – Lost Saga Game"
 
     - title: Localization/QA
-      link: '#'
-      tagline: 'NEXON – United Eleven Game'
+      link: "#"
+      tagline: "NEXON – United Eleven Game"
 
     - title: Wordpress
-      link: '#'
+      link: "#"
       tagline: ' <br />
         - <a href="https://www.turaetiket.com/" target="_blank" rel="nofollow">https://www.turaetiket.com/</a> <br />
         - <a href="https://www.anthukuk.com/" target="_blank" rel="nofollow">https://www.anthukuk.com/</a> <br />
@@ -212,32 +132,21 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-    - name: Python & Django
+    - name: Python & Flask & Django
       level: 90%
 
-    - name: Javascript & jQuery
-      level: 100%
+    - name: Javascript 
+      level: 50%
 
-    - name: React - NextJS
-      level: 100%
+    - name: React
+      level: 50%
 
     - name: HTML5 & CSS
-      level: 95%
-
-    - name: T-SQL
-      level: 80%
-
-    - name: C#
-      level: 85%
-
-    - name: Unity
-      level: 75%
-
-    - name: Adobe Photoshop
-      level: 85%
-
-    - name: Adobe Illustrator
       level: 50%
+
+    - name: SQL
+      level: 50%
+
 
 footer: >
   <i class="fas fa-heart"></i> Thank you for taking the time to review my CV. I look forward to the opportunity to discuss how my skills and experiences can contribute to your team.
