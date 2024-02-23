@@ -192,7 +192,7 @@ p {
   }
   .job-title,
   .degree,
-  .cert-title{
+  .cert-title {
     color: $text-color;
     font-size: 16px;
     margin-top: 0;
@@ -285,3 +285,10 @@ p {
   }
 }
 
+.experience {
+  color: rgba(256, 256, 256, 0.6);
+  font-size: 16px;
+  font-weight: 400;
+  margin-top: 10px;
+  margin-bottom: 0;
+}
