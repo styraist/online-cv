@@ -119,19 +119,14 @@ skills:
 
   toolset:
     - name: Python & Flask & Django
-      level: 90%
 
     - name: Javascript
-      level: 50%
 
     - name: React
-      level: 50%
 
     - name: HTML5 & CSS
-      level: 50%
 
     - name: SQL
-      level: 50%
 
 footer: >
   <i class="fas fa-heart"></i> Thank you for taking the time to review my CV. I look forward to the opportunity to discuss how my skills and experiences can contribute to your team.
