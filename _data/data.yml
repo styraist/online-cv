@@ -64,11 +64,12 @@ experiences:
       time: 03/2023 - Present
       company: Monachus Bilişim A.Ş.
       details: |
-
         - Developing the backend side of the e-commerce platform using NestJS, Prisma ORM and PostgreSQL technologies.
         - Ensuring data integrity and security by establishing database relationships in the project.
         - By performing authentication and authorization processes, controlling users' access to the system securely.
         - To maintain the project after it goes live.
+
+
 
 
         -	I was involved in the implementation of a Complex Event Processing (CEP) project and organized the installation of a pipeline.
