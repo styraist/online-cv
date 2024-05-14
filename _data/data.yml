@@ -70,7 +70,7 @@ experiences:
         - By performing authentication and authorization processes, controlling users' access to the system securely.
         - To maintain the project after it goes live.
 
-        |
+
         -	I was involved in the implementation of a Complex Event Processing (CEP) project and organized the installation of a pipeline.
         -	I was involved in developing a data analysis and visualization application using Flask and Dash frameworks. Contributed to enhancing data interpretation and decision-making processes within the company.
 
@@ -124,9 +124,9 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-    - name: Python & Flask & Django
+    - name: Python & Flask - Django
 
-    - name: Javascript & Node.js & Express.js & NestJS
+    - name: Javascript & Node.js - Express.js - NestJS
 
     - name: HTML5 & CSS
 
