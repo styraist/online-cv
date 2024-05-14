@@ -119,9 +119,7 @@ skills:
   toolset:
     - name: Python & Flask & Django
 
-    - name: Javascript
-
-    - name: React
+    - name: Javascript & Node.js & Express.js & NestJS
 
     - name: HTML5 & CSS
 
