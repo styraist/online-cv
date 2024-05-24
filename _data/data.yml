@@ -31,22 +31,11 @@ sidebar:
       - idiom: English
         level: Professional
 
-  interests:
-    title: Interests
-    info:
-      - item: Cycling
-        link:
-
-      - item: Hiking
-        link:
-
-      - item: Cooking
-        link:
-
 career-profile:
   title: Career Profile
   summary: |
-    Hello. I'm Salih, a Python and JavaScript developer who has stepped into the world of backend development. I would like to say that I am someone who is always hungry to learn and focused on continuous improvement as I progress rapidly in the magical world of software. Innovation, problem solving and teamwork are not only career goals for me, but also my passion. Taking part in new projects, pushing technological boundaries and learning every day has become a lifestyle for me. If you share the same excitement, I can't wait to work together 🚀
+    Hello. I’m Salih, a Python and JavaScript developer who has stepped into the world of backend development. I am always hungry to learn and focused on continuous improvement. Innovation, problem-solving, and teamwork are my passions. I enjoy taking part in new projects, pushing technological boundaries, and learning every day.
+
 education:
   title: Education
   info:
@@ -60,20 +49,21 @@ education:
 experiences:
   title: Experiences
   info:
-    - role: Junior Software Developer
+    - role: Backend Developer
       time: 03/2023 - Present
       company: Monachus Bilişim A.Ş.
       details: |
-        - Developing the backend side of the e-commerce platform using NestJS, Prisma ORM and PostgreSQL technologies.
-        - Ensuring data integrity and security by establishing database relationships in the project.
-        - By performing authentication and authorization processes, controlling users' access to the system securely.
-        - To maintain the project after it goes live.
+        - E-commerce Backend Development: Developed backend for an e-commerce platform using NestJS, Prisma ORM, and PostgreSQL.
 
+        - Database Management: Ensured data integrity and security by establishing database relationships.
 
+        - Authentication & Authorization: Implemented secure user access controls.
 
+        - Project Maintenance: Managed the project post-launch.
 
-        -	I was involved in the implementation of a Complex Event Processing (CEP) project and organized the installation of a pipeline.
-        -	I was involved in developing a data analysis and visualization application using Flask and Dash frameworks. Contributed to enhancing data interpretation and decision-making processes within the company.
+        -	Complex Event Processing (CEP): Implemented and organized pipeline installation.
+
+        -	Data Analysis Application: Developed a data analysis and visualization application using Flask and Dash.
 
           - Event-centric Massive Scale Real-time Streaming Data Processing
           - Monachus Bilişim A.Ş. is associated with Altosis Bilişim A.Ş.
@@ -81,7 +71,7 @@ experiences:
       time: 01/2013 - 02/2014
       company: AssisTT
       details: |
-        -	I have been involved in back office operations by managing customer support requests.
+        -	Managed customer support requests in back office operations.
 
 certifications:
   title: Certifications
@@ -104,21 +94,21 @@ projects:
       link: "#"
       tagline: "
         <br />
-        - Using Python Django, I created a blogging platform where users can register and write posts and reviews on these posts.<br />
+        - Developed using Python Django. Allows users to register, write posts, and reviews.<br />
         "
 
     - title: Movie Review App
       link: "#"
       tagline: "
         <br />
-        - Using Python Flask, I created a movie review application where users can add movies, write reviews and rate movies.<br />
+        - Created with Python Flask. Users can add movies, write reviews, and rate them.<br />
         "
 
     - title: Book Stock Management API (Django Rest Framework)
       link: "#"
       tagline: "
         <br />
-        - I developed an API project using the Django Rest Framework to efficiently manage book stocks. This project aims to facilitate bookstore operations such as stock tracking, updating and adding new books.<br />
+        - Developed using Django Rest Framework for efficient management of bookstore operations.<br />
         "
 
 skills:
